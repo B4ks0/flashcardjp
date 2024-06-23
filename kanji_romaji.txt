@@ -4,3 +4,5 @@
 花火 hanabi
 食堂 shokudou
 友達 tomodachi
+働く hataraku
+忙しい isogashii
