@@ -13,3 +13,5 @@
 図書館 toshokan
 会議室 kaigishitsu
 美術館 bijutsukan
+椅子 isu
+道 michi
