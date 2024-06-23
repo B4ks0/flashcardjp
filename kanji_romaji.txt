@@ -6,3 +6,6 @@
 友達 tomodachi
 働く hataraku
 忙しい isogashii
+教室 kyoushitsu
+鞄 kaban
+靴 kutsu
