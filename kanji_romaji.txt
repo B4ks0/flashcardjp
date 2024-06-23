@@ -2,3 +2,5 @@
 鶏 niwatori
 教会 kyoukai
 花火 hanabi
+食堂 shokudou
+友達 tomodachi
