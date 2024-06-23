@@ -9,3 +9,7 @@
 教室 kyoushitsu
 鞄 kaban
 靴 kutsu
+海岸 kaigan
+図書館 toshokan
+会議室 kaigishitsu
+美術館 bijutsukan
