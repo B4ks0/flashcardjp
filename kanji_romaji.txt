@@ -16,3 +16,7 @@
 椅子 isu
 道 michi
 流れる nagareru
+座る suwaru
+切る kiru
+着る kiru
+新幹線 shinkansen
