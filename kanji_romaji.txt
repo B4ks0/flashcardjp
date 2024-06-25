@@ -20,3 +20,7 @@
 切る kiru
 着る kiru
 新幹線 shinkansen
+閉じる tojiru
+設定 sette
+実績 jisseki
+目標 mokuhyou
